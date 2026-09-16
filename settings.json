@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Technoblade",
-    "password": "11434",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "moneyserver831.aternos.me",
-    "port": 25565,
+    "ip": "CoolGuyz67.aternos.me",
+    "port": 40204,
     "version": "1.21.1"
   },
   "position": {
